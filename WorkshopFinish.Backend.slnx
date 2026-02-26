@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../WorkshopFinish.FrontEnd/WorkshopFinish.FrontEnd.csproj" Id="d67b7284-f853-47d1-bbbc-8f1c3eb13dd4" />
   <Project Path="WorkshopFinish.Backend.csproj" />
 </Solution>
